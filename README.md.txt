@@ -23,6 +23,6 @@ o	Feature selection using RFE
 Details of files given:
 •	Lead Scoring Case Study_working.ipynb : The python file 
 •	Assignment Subjective Questions.pdf : Some subjective questions answered
-•	Lead Score Case Study.pdf : Final Presentation
+•	Lead Score Case Study Presentation.pdf : Final Presentation
 •	Lead Scoring Case Study Summary.pdf: Summary on what's done in the entire py file
 
